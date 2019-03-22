@@ -1,0 +1,18 @@
+body,html {
+  height: 100%;
+  background-color: #403635;
+}
+
+logo {
+  margin-top: 500px; 
+  margin-bottom: auto;
+}
+
+.main {
+  height: 100%;
+  width: 100%;
+}
+
+.mid {
+  margin-top: 20%;
+}
