@@ -1,18 +1,25 @@
-body,html {
+body, html {
   height: 100%;
   background-color: #202225;
+  font-family: 'Source Code Pro', monospace;
+  color: lightgray;
 }
 
-logo {
-  margin-top: 500px; 
-  margin-bottom: auto;
+a, a:link, a:hover, a:visited, a:active {
+  color: #7CFC00;
+}
+
+h1 {
+  font-family: 'Source Code Pro', monospace;
+  color: lightgray;
 }
 
 .main {
   height: 100%;
   width: 100%;
+  text-align: center;
 }
 
 .mid {
-  margin-top: 20%;
+  /* margin-top: 5%; */
 }
