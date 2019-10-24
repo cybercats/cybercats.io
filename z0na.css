@@ -3,7 +3,7 @@ body, html {
   background-color: #202225;
   font-family: 'Source Code Pro', monospace;
   color: lightgray;
-  padding-bottom: 1000px;
+  margin-bottom: 1000px;
 }
 
 .nav {
