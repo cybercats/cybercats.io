@@ -5,6 +5,12 @@ body, html {
   color: lightgray;
 }
 
+.nav {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+} 
+
 a, a:link, a:hover, a:visited, a:active {
   color: #7CFC00;
 }
@@ -72,3 +78,43 @@ h2 {
     margin-bottom: 20px;
   }
 }
+
+ .icon-bar {
+  position: fixed;
+  bottom: 5%;
+  right: 2%;
+}
+
+/* Style the icon bar links */
+.icon-bar a {
+  display: run-in;
+  text-align: center;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 25px;
+}
+
+/* Style the social media icons with color, if you want */
+.icon-bar a:hover {
+  background-color: #000;
+}
+
+.facebook {
+  background: #3B5998;
+  color: white;
+  padding: 20px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.twitter {
+  background: #55ACEE;
+  color: white;
+  padding: 20px;
+}
+
+.instagram {
+  background: #5280a4;
+  color: white;
+  padding: 20px; 
+} 
