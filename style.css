@@ -1,0 +1,63 @@
+/*=================================================================
+  Resources Cards
+==================================================================*/
+* {
+    box-sizing: border-box;
+  }
+  
+  /* Float four columns side by side */
+  .column {
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+  }
+  
+  /* Remove extra left and right margins, due to padding in columns */
+  .row {margin: 0 -5px;}
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Style the counter cards */
+  .resource-card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-style: solid;
+    border-width: 2px;
+    padding: 16px;
+    text-align: center;
+    width: 90%;
+    height: 100%;
+    margin: 15px;
+    
+  }
+  
+  .skill-text {
+    color: white;
+  }
+
+  @media screen and (max-width: 600px) {
+    .column {
+        width: 90%;
+        justify-content: center;
+        margin: 0 auto;
+        float: none;
+      }
+  }
+
+  .fa {
+    padding: 25px;
+    font-size: 45px !important;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+
+  .fa:hover {
+    opacity: 0.7;
+  }
+
