@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact on UArizona CyberCats</title>
+    <link>https://cybercats.io/contact/</link>
+    <description>Recent content in Contact on UArizona CyberCats</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright> Powered by [Hugo](https://gohugo.io/) | [Hugo Theme](https://themes.gohugo.io/vex-hugo/)</copyright><atom:link href="https://cybercats.io/contact/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

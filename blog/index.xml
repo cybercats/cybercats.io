@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>UArizona CyberCats</title>
-    <link>https://cybercats.io/</link>
-    <description>Recent content on UArizona CyberCats</description>
+    <title>Latest Posts on UArizona CyberCats</title>
+    <link>https://cybercats.io/blog/</link>
+    <description>Recent content in Latest Posts on UArizona CyberCats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright> Powered by [Hugo](https://gohugo.io/) | [Hugo Theme](https://themes.gohugo.io/vex-hugo/)</copyright>
-    <lastBuildDate>Wed, 02 Dec 2020 11:00:00 -0700</lastBuildDate><atom:link href="https://cybercats.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Dec 2020 11:00:00 -0700</lastBuildDate><atom:link href="https://cybercats.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Started With Capture The Flag Competitions</title>
       <link>https://cybercats.io/blog/getting_started_with_capture_the_flag/</link>

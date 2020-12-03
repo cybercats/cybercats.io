@@ -3,25 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <priority>0</priority>
+    <loc>https://cybercats.io/blog/getting_started_with_capture_the_flag/</loc>
+    <lastmod>2020-12-02T11:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/resources/resources/</loc>
-    <priority>0</priority>
+    <loc>https://cybercats.io/blog/</loc>
+    <lastmod>2020-12-02T11:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://cybercats.io/</loc>
+    <lastmod>2020-12-02T11:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/resources/</loc>
+    <loc>https://cybercats.io/blog/aws_introduction/</loc>
+    <lastmod>2020-12-01T11:01:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://cybercats.io/blog/learning_resources/</loc>
+    <lastmod>2020-12-01T11:01:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cybercats.io/blog/welcome_to_cybercats/</loc>
+    <lastmod>2020-12-01T11:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cybercats.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cybercats.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cybercats.io/tags/</loc>
   </url>
   
 </urlset>

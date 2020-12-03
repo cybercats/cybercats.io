@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on CyberCats</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on CyberCats</description>
+    <title>Tags on UArizona CyberCats</title>
+    <link>https://cybercats.io/tags/</link>
+    <description>Recent content in Tags on UArizona CyberCats</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright> Powered by [Hugo](https://gohugo.io/) | [Hugo Theme](https://themes.gohugo.io/vex-hugo/)</copyright><atom:link href="https://cybercats.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
